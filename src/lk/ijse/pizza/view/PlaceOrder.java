@@ -571,7 +571,6 @@ public class PlaceOrder extends javax.swing.JPanel {
             JOptionPane.showMessageDialog(this, "AAA");
         }
         
-        
     }//GEN-LAST:event_txtCustomerNameActionPerformed
 
     private void txtEmailActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtEmailActionPerformed
@@ -579,7 +578,6 @@ public class PlaceOrder extends javax.swing.JPanel {
     }//GEN-LAST:event_txtEmailActionPerformed
 
     private void txtCodeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtCodeActionPerformed
-
 
     }//GEN-LAST:event_txtCodeActionPerformed
 

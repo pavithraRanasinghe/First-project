@@ -6,7 +6,6 @@
 package lk.ijse.pizza.business;
 
  import lk.ijse.pizza.business.custom.PlaceOrderBO;
-import lk.ijse.pizza.business.custom.CustomerBO;
 import lk.ijse.pizza.business.custom.ItemBO;
 import lk.ijse.pizza.business.custom.impl.CustomerBOImpl;
 import lk.ijse.pizza.business.custom.impl.ItemBOImpl;

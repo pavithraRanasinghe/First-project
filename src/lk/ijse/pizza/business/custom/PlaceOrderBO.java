@@ -6,8 +6,6 @@
 package lk.ijse.pizza.business.custom;
 
 import lk.ijse.pizza.business.SuperBO;
-import lk.ijse.pizza.dto.CustomerDTO;
-import lk.ijse.pizza.dto.ItemDTO;
 import lk.ijse.pizza.dto.OrderDTO;
 
 /**
